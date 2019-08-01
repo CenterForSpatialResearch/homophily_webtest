@@ -1,0 +1,32 @@
+        .body{
+            font-family:helvetica;
+        }
+        #setup{
+            float:top;
+            width:200px;
+            border:1px solid black;
+            padding:20px;
+        }
+        #friendCount{
+            float:top;
+            width:200px;
+            border:1px solid black;
+            padding:20px;
+        }
+        #friendshipTable{
+            float:top;
+            width:200px;
+            border:1px solid black;
+            padding:20px;
+        }
+        #tally{
+            float:top;
+            width:200px;
+            border:1px solid black;
+            padding:20px;
+        }
+        #chart1{
+            position:absolute;
+            top:0px;
+            left:0px;
+        }
